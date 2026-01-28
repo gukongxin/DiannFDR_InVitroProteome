@@ -1,6 +1,6 @@
-## FDR Evaluation for DIA
+## FDR Evaluation for DIA using in vitro human proteome. 
 
-This repository contains fasta and scripts for the evaluation of FDR in Library-Free search by DIA-NN using an *in vitro* human proteome. 
+This repository contains fasta and scripts for the evaluation of FDR in Library-Free search by DIA-NN using *in vitro* human proteome. 
 
 **Reference:** Evaluation of the False Discovery Rate in Library-Free Search by DIA-NN Using In Vitro Human Proteome  
 https://doi.org/10.1021/acs.jproteome.5c00036

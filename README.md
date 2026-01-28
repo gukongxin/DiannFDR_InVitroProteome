@@ -6,8 +6,8 @@ This repository contains fasta and scripts for the evaluation of FDR in Library-
 https://doi.org/10.1021/acs.jproteome.5c00036
 
 ###  Data Availability
-The raw DIA-NN search results generated for this study have been deposited in the **jPOST repository** under the following accession numbers:
-* **JPST003404/PXD056519.
+The raw MS data and DIA-NN search results generated for this study have been deposited in the **jPOST repository** under the following accession numbers:
+* JPST003404/PXD056519.
 
 ###  File Descriptions 
 

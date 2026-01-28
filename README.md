@@ -20,10 +20,8 @@ The raw MS data and DIA-NN search results generated for this study have been dep
 **Note:** To facilitate computational processing, proteins present in multiple mixtures are assigned a **merged header**. A concatenated name indicates that the protein sequence is identical and present across the specified mixtures.
 
 *Example:*
-```text
 >Mix4_FLJ93078AAAF/Mix11_FLJ93078AAAF
-MAPPSVFAEVPQAQPVLVFKLTADFREDPDPRKVNLGVGAYRTDDCHPWVLPVVKKVEQK...```
-
+MAPPSVFAEVPQAQPVLVFKLTADFREDPDPRKVNLGVGAYRTDDCHPWVLPVVKKVEQK...
 
 #### 3. `InSilico_TheoreticalPeptides`
 InSilico_TheoreticalPeptides files contain the theoretical peptides of proteins in each mixture, used for comparing against diann search results.

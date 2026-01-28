@@ -22,7 +22,7 @@ The raw MS data and DIA-NN search results generated for this study have been dep
 *Example:*
 ```text
 >Mix4_FLJ93078AAAF/Mix11_FLJ93078AAAF
-MAPPSVFAEVPQAQPVLVFKLTADFREDPDPRKVNLGVGAYRTDDCHPWVLPVVKKVEQK...
+MAPPSVFAEVPQAQPVLVFKLTADFREDPDPRKVNLGVGAYRTDDCHPWVLPVVKKVEQK...'''
 
 #### 3. `InSilico_TheoreticalPeptides`
 InSilico_TheoreticalPeptides files contain the theoretical peptides of proteins in each mixture, used for comparing against diann search results.
